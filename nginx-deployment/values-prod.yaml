@@ -10,7 +10,7 @@ image:
   tag: 1.17.0
   pullPolicy: IfNotPresent
 
-replicaCount: 200
+replicaCount: -1
 
 resources:
   requests:
