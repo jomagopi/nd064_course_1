@@ -2,7 +2,7 @@ namespace:
   name: prod 
  
 service:
-  port: 8080
+  port: 80
   type: ClusterIP
 
 image:
